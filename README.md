@@ -1,2 +1,2 @@
-# nazo
-tekitou
+# readme
+多分使わん
